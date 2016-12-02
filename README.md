@@ -61,14 +61,14 @@ function golink($url, $anchor, $prfx = "rdr")
 Для вывода в шаблоне
 
 <!-- переход по клику -->
-{PHP|golink('https://yourcotontisite.com/services','Веб инструменты')}
+{PHP|golink('httрs://yourcotontisite.com/services','Веб инструменты')}
 Если нужно передать третий параметр:
 
 <!-- открытие в отдельной вкладке с переходом по клику на ссылке -->
-{PHP|golink('https://yourcotontisite.com/services','Веб инструменты','mod')}
+{PHP|golink('httрs://yourcotontisite.com/services','Веб инструменты','mod')}
 
 <!-- открытие в отдельной вкладке с автоматическим переходом после таймера отсчета -->
-{PHP|golink('https://yourcotontisite.com/services','Веб инструменты','tmr')}
+{PHP|golink('httрs://yourcotontisite.com/services','Веб инструменты','tmr')}
 Инструкция по установке
 
 Скачать и распаковать архив, сам плагин находится в папке golink.
