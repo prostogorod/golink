@@ -11,8 +11,8 @@ Tags=page.add.tpl:{PAGEADD_FORM_OPENLINKSONPAGE}
 /**
  * golink plugin
  *
- * @author  WebRomen
- * @copyright Copyright (C) 2015 - today: WebRomen | https://github.com/WebRomen/golink
+ * @author Roffun
+ * @copyright Copyright (c) 2015 - today: Roffun | https://webcot.net/cotonti/extensions/golink-plugin
  * @license BSD
  */
 

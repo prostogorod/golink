@@ -6,9 +6,9 @@ Code=golink
 Name=Golink
 Description=Обработка внешних ссылок
 Version=2.1.5
-Date=26-11-2016
-Author=WebRomen
-Copyright=Copyright (C) 2015 - today: WebRomen | https://github.com/WebRomen/golink
+Date=08-12-2016
+Author=Roffun
+Copyright=Copyright (c) 2015 - today: Roffun | https://webcot.net/cotonti/extensions/golink-plugin
 Notes=BSD License
 Auth_guests=R
 Lock_guests=12345A
@@ -33,7 +33,7 @@ defined('COT_CODE') or die('Wrong URL');
 /**
  * golink plugin
  *
- * @author  WebRomen
- * @copyright Copyright (C) 2015 - today: WebRomen | https://github.com/WebRomen/golink
+ * @author Roffun
+ * @copyright Copyright (c) 2015 - today: Roffun | https://webcot.net/cotonti/extensions/golink-plugin
  * @license BSD
  */
