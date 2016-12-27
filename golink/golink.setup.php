@@ -8,7 +8,7 @@ Description=Обработка внешних ссылок
 Version=2.1.5
 Date=08-12-2016
 Author=Roffun
-Copyright=Copyright (c) 2015 - today: Roffun | https://webcot.net/cotonti/extensions/golink-plugin
+Copyright=Copyright (c) 2015 - today: Roffun | https://github.com/Roffun
 Notes=BSD License
 Auth_guests=R
 Lock_guests=12345A
@@ -34,6 +34,6 @@ defined('COT_CODE') or die('Wrong URL');
  * golink plugin
  *
  * @author Roffun
- * @copyright Copyright (c) 2015 - today: Roffun | https://webcot.net/cotonti/extensions/golink-plugin
+ * @copyright Copyright (c) 2015 - today: Roffun | https://github.com/Roffun
  * @license BSD
  */
